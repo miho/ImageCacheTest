@@ -1,6 +1,6 @@
 Warning: this package contains experimental classes for testing purposes only!
 
-Purpose: the question I want to answer is under which circumstances it is cheaper to reuse created objects instead of creating new ones. Therefore this package contains an object cache that uses constructor parameters to create a key value for a HashMap. This ensures that finding existing objects is cheap enougth. I testet object caching with BufferedImage instances.
+Purpose: the question I want to answer is under which circumstances it is cheaper to reuse created objects instead of creating new ones. Therefore this package contains an object cache that uses constructor parameters to create a key value for a HashMap. This ensures that finding existing objects is cheap enougth. I tested object caching with BufferedImage instances.
 
 Usage: to start the test, just run the main class of this packages.
 
